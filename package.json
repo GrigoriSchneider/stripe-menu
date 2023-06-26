@@ -1,6 +1,6 @@
 {
-  
-  "name": "stripe-menu",
+  "homepage": "https://grigorischneider.github.io/stripe-menu",
+  "name": "stripemenu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
